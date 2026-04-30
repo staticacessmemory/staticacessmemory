@@ -1,7 +1,7 @@
 # Hi, I'm static 👋
 
 ## 🚀 About Me
-- Interested in machine learning, low-level programming and performance
+- Interested in deep learning, low-level programming and performance
 
 ## 🧰 Tech Stack
 <img src="https://skillicons.dev/icons?i=rust,python,java,linux,ubuntu,debian,git,cloudflare,pytorch,bash" height="60">
