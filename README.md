@@ -1,4 +1,4 @@
-# Hi, I'm statio 👋
+# Hi, I'm static 👋
 
 ## 🚀 About Me
 - Interested in machine learning, low-level programming and performance
