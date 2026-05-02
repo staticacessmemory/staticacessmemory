@@ -7,7 +7,7 @@
 <img src="https://skillicons.dev/icons?i=rust,python,linux,ubuntu,debian,git,cloudflare,pytorch,bash" height="60">
 
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=staticacessmemory&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=staticacessmemory)](https://git.io/streak-stats)
 
 
 
